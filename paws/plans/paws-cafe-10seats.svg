@@ -1,281 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="853" height="919"
-  viewBox="0 0 853.2 919.1">
-  <rect width="100%" height="100%" fill="#f4f0e8"/>
-  <text x="20.0" y="26"
-    font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif"
-    font-size="15" font-weight="700" fill="#1a1a1a">PAWS ドッグサロン兼カフェ 平面図｜客席 10席案</text>
-  <text x="20.0" y="44"
-    font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif"
-    font-size="9.5" fill="#555">愛媛県西条市｜横 11,500 mm × 縦 14,560 mm｜910モジュール｜基本設計</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="959" height="908"
+  viewBox="0 0 959.3 907.9">
+  <rect width="100%" height="100%" fill="#f3efe7"/>
+  <text x="24.0" y="26" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="15" font-weight="700" fill="#1a1a1a">PAWS ドッグサロン兼カフェ 平面図｜客席 10席案</text>
+  <text x="24.0" y="46" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9.5" fill="#555">愛媛県西条市｜元図配置ベース｜横 11,500 × 縦 12,740 mm｜910モジュール</text>
 
-  <g transform="translate(155.2,62.0)">
-    <g stroke="#e0d8cc" stroke-width="0.35"><line x1="0.0" y1="0" x2="0.0" y2="757.1"/>
-<line x1="47.3" y1="0" x2="47.3" y2="757.1"/>
-<line x1="94.6" y1="0" x2="94.6" y2="757.1"/>
-<line x1="142.0" y1="0" x2="142.0" y2="757.1"/>
-<line x1="189.3" y1="0" x2="189.3" y2="757.1"/>
-<line x1="236.6" y1="0" x2="236.6" y2="757.1"/>
-<line x1="283.9" y1="0" x2="283.9" y2="757.1"/>
-<line x1="331.2" y1="0" x2="331.2" y2="757.1"/>
-<line x1="378.6" y1="0" x2="378.6" y2="757.1"/>
-<line x1="425.9" y1="0" x2="425.9" y2="757.1"/>
-<line x1="473.2" y1="0" x2="473.2" y2="757.1"/>
-<line x1="520.5" y1="0" x2="520.5" y2="757.1"/>
-<line x1="567.8" y1="0" x2="567.8" y2="757.1"/>
-<line x1="0" y1="0.0" x2="598.0" y2="0.0"/>
-<line x1="0" y1="47.3" x2="598.0" y2="47.3"/>
-<line x1="0" y1="94.6" x2="598.0" y2="94.6"/>
-<line x1="0" y1="142.0" x2="598.0" y2="142.0"/>
-<line x1="0" y1="189.3" x2="598.0" y2="189.3"/>
-<line x1="0" y1="236.6" x2="598.0" y2="236.6"/>
-<line x1="0" y1="283.9" x2="598.0" y2="283.9"/>
-<line x1="0" y1="331.2" x2="598.0" y2="331.2"/>
-<line x1="0" y1="378.6" x2="598.0" y2="378.6"/>
-<line x1="0" y1="425.9" x2="598.0" y2="425.9"/>
-<line x1="0" y1="473.2" x2="598.0" y2="473.2"/>
-<line x1="0" y1="520.5" x2="598.0" y2="520.5"/>
-<line x1="0" y1="567.8" x2="598.0" y2="567.8"/>
-<line x1="0" y1="615.2" x2="598.0" y2="615.2"/>
-<line x1="0" y1="662.5" x2="598.0" y2="662.5"/>
-<line x1="0" y1="709.8" x2="598.0" y2="709.8"/>
-<line x1="0" y1="757.1" x2="598.0" y2="757.1"/></g>
+  <g transform="translate(182.34,64.00)">
+    <g stroke="#ddd5c8" stroke-width="0.35"><line x1="0.00" y1="0" x2="0.00" y2="738.92"/>
+<line x1="52.78" y1="0" x2="52.78" y2="738.92"/>
+<line x1="105.56" y1="0" x2="105.56" y2="738.92"/>
+<line x1="158.34" y1="0" x2="158.34" y2="738.92"/>
+<line x1="211.12" y1="0" x2="211.12" y2="738.92"/>
+<line x1="263.90" y1="0" x2="263.90" y2="738.92"/>
+<line x1="316.68" y1="0" x2="316.68" y2="738.92"/>
+<line x1="369.46" y1="0" x2="369.46" y2="738.92"/>
+<line x1="422.24" y1="0" x2="422.24" y2="738.92"/>
+<line x1="475.02" y1="0" x2="475.02" y2="738.92"/>
+<line x1="527.80" y1="0" x2="527.80" y2="738.92"/>
+<line x1="580.58" y1="0" x2="580.58" y2="738.92"/>
+<line x1="633.36" y1="0" x2="633.36" y2="738.92"/>
+<line x1="0" y1="0.00" x2="667.00" y2="0.00"/>
+<line x1="0" y1="52.78" x2="667.00" y2="52.78"/>
+<line x1="0" y1="105.56" x2="667.00" y2="105.56"/>
+<line x1="0" y1="158.34" x2="667.00" y2="158.34"/>
+<line x1="0" y1="211.12" x2="667.00" y2="211.12"/>
+<line x1="0" y1="263.90" x2="667.00" y2="263.90"/>
+<line x1="0" y1="316.68" x2="667.00" y2="316.68"/>
+<line x1="0" y1="369.46" x2="667.00" y2="369.46"/>
+<line x1="0" y1="422.24" x2="667.00" y2="422.24"/>
+<line x1="0" y1="475.02" x2="667.00" y2="475.02"/>
+<line x1="0" y1="527.80" x2="667.00" y2="527.80"/>
+<line x1="0" y1="580.58" x2="667.00" y2="580.58"/>
+<line x1="0" y1="633.36" x2="667.00" y2="633.36"/>
+<line x1="0" y1="686.14" x2="667.00" y2="686.14"/>
+<line x1="0" y1="738.92" x2="667.00" y2="738.92"/></g>
 
-    <rect x="-135.2" y="567.8" width="135.2" height="189.3" fill="#d4c4ae" stroke="#1a1a1a" stroke-width="1.5"/>
-<line x1="-132.6" y1="575.1" x2="-2.6" y2="575.1" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="588.6" x2="-2.6" y2="588.6" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="602.2" x2="-2.6" y2="602.2" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="615.7" x2="-2.6" y2="615.7" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="629.2" x2="-2.6" y2="629.2" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="642.7" x2="-2.6" y2="642.7" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="656.2" x2="-2.6" y2="656.2" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="669.8" x2="-2.6" y2="669.8" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="683.3" x2="-2.6" y2="683.3" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="696.8" x2="-2.6" y2="696.8" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="710.3" x2="-2.6" y2="710.3" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="723.8" x2="-2.6" y2="723.8" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="737.4" x2="-2.6" y2="737.4" stroke="#b7a48c" stroke-width="1.1"/>
-<line x1="-132.6" y1="750.9" x2="-2.6" y2="750.9" stroke="#b7a48c" stroke-width="1.1"/>
-<circle cx="-87.9" cy="628.4" r="19.8" fill="#b9c9a8" fill-opacity="0.5" stroke="#4f6b45" stroke-width="1"/>
-<rect x="-101.4" y="617.0" width="27.0" height="22.9" fill="#efe6d8" stroke="#333"/>
-<circle cx="-43.3" cy="696.6" r="19.8" fill="#b9c9a8" fill-opacity="0.5" stroke="#4f6b45" stroke-width="1"/>
-<rect x="-56.8" y="685.1" width="27.0" height="22.9" fill="#efe6d8" stroke="#333"/>
-<text x="-67.6" y="584.5" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10" font-weight="700" fill="#3a3228">屋外デッキ</text>
-<text x="-67.6" y="594.9" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" font-weight="600" fill="#5a5248">参考図どおり西側配置</text>
+    <rect x="-158.34" y="263.90" width="158.34" height="475.02" fill="#cbb89a" stroke="#1a1a1a" stroke-width="1.5"/>
+<line x1="-156.02" y1="270.86" x2="-2.32" y2="270.86" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="284.78" x2="-2.32" y2="284.78" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="298.70" x2="-2.32" y2="298.70" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="312.62" x2="-2.32" y2="312.62" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="326.54" x2="-2.32" y2="326.54" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="340.46" x2="-2.32" y2="340.46" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="354.38" x2="-2.32" y2="354.38" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="368.30" x2="-2.32" y2="368.30" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="382.22" x2="-2.32" y2="382.22" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="396.14" x2="-2.32" y2="396.14" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="410.06" x2="-2.32" y2="410.06" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="423.98" x2="-2.32" y2="423.98" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="437.90" x2="-2.32" y2="437.90" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="451.82" x2="-2.32" y2="451.82" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="465.74" x2="-2.32" y2="465.74" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="479.66" x2="-2.32" y2="479.66" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="493.58" x2="-2.32" y2="493.58" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="507.50" x2="-2.32" y2="507.50" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="521.42" x2="-2.32" y2="521.42" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="535.34" x2="-2.32" y2="535.34" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="549.26" x2="-2.32" y2="549.26" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="563.18" x2="-2.32" y2="563.18" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="577.10" x2="-2.32" y2="577.10" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="591.02" x2="-2.32" y2="591.02" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="604.94" x2="-2.32" y2="604.94" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="618.86" x2="-2.32" y2="618.86" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="632.78" x2="-2.32" y2="632.78" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="646.70" x2="-2.32" y2="646.70" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="660.62" x2="-2.32" y2="660.62" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="674.54" x2="-2.32" y2="674.54" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="688.46" x2="-2.32" y2="688.46" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="702.38" x2="-2.32" y2="702.38" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="716.30" x2="-2.32" y2="716.30" stroke="#b39a7a" stroke-width="1.15"/>
+<line x1="-156.02" y1="730.22" x2="-2.32" y2="730.22" stroke="#b39a7a" stroke-width="1.15"/>
+<polygon points="-102.9,382.0 -80.9,396.0 -85.5,423.8 -120.3,423.8 -125.0,396.0" fill="#6f8f5c" fill-opacity="0.55" stroke="#3f5c38" stroke-width="1"/>
+<rect x="-115.68" y="395.97" width="25.52" height="20.88" fill="#efe6d6" stroke="#333" stroke-width="1"/>
+<circle cx="-121.48" cy="406.41" r="6.96" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<circle cx="-84.36" cy="406.41" r="6.96" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<polygon points="-55.4,534.1 -33.4,548.0 -38.0,575.8 -72.8,575.8 -77.5,548.0" fill="#6f8f5c" fill-opacity="0.55" stroke="#3f5c38" stroke-width="1"/>
+<rect x="-68.18" y="547.97" width="25.52" height="20.88" fill="#efe6d6" stroke="#333" stroke-width="1"/>
+<circle cx="-73.98" cy="558.41" r="6.96" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<circle cx="-36.86" cy="558.41" r="6.96" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<text x="-79.17" y="280.14" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="10" font-weight="700" fill="#3a3228">屋外デッキ</text>
 
-    <rect x="165.6" y="236.6" width="266.8" height="520.5" fill="#faf7f1" stroke="#1a1a1a" stroke-width="1.7"/>
-    <rect x="0.0" y="283.9" width="165.6" height="378.6" fill="#faf7f1" stroke="#1a1a1a" stroke-width="1.7"/>
-    <rect x="0.0" y="0.0" width="185.1" height="236.6" fill="#f1e7d8" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="92.6" y="110.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="700" fill="#1a1a1a">厨房</text>
-<text x="92.6" y="126.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">10.0帖（16.2㎡）</text>
-<text x="92.6" y="138.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">概ね既存規模</text>
-    <rect x="185.1" y="0.0" width="199.9" height="94.6" fill="#e7eef1" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="285.1" y="39.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="600" fill="#1a1a1a">洗面所</text>
-<text x="285.1" y="55.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">4.3帖（7.0㎡）</text>
-    <rect x="185.1" y="94.6" width="199.9" height="142.0" fill="#e7eef1" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="285.1" y="157.6" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="600" fill="#1a1a1a">トイレ</text>
-<text x="285.1" y="173.6" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">6.5帖（10.5㎡）</text>
-<text x="285.1" y="185.6" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">多目的</text>
-    <rect x="385.1" y="0.0" width="212.9" height="283.9" fill="#eaf4e6" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="491.5" y="134.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="700" fill="#1a1a1a">保護猫エリア</text>
-<text x="491.5" y="150.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">13.8帖（22.4㎡）</text>
-<text x="491.5" y="162.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">犬ゾーンと分離</text>
-    <rect x="385.1" y="283.9" width="106.5" height="94.6" fill="#efece6" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="438.3" y="323.2" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="600" fill="#1a1a1a">スタッフルーム</text>
-<text x="438.3" y="339.2" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">2.3帖（3.7㎡）</text>
-    <rect x="491.5" y="283.9" width="106.5" height="94.6" fill="#e7eef1" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="544.8" y="323.2" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="600" fill="#1a1a1a">洗濯室</text>
-<text x="544.8" y="339.2" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">2.3帖（3.7㎡）</text>
-    <rect x="0.0" y="236.6" width="165.6" height="47.3" fill="#ebe6de" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="82.8" y="252.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="9" font-weight="600" fill="#1a1a1a">風除室①</text>
-<text x="82.8" y="268.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">1.8帖（2.9㎡）</text>
-<text x="82.8" y="280.3" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">入口・既存位置</text>
-    <rect x="0.0" y="662.5" width="165.6" height="94.6" fill="#ebe6de" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="82.8" y="701.8" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="600" fill="#1a1a1a">風除室②</text>
-<text x="82.8" y="717.8" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">3.6帖（5.8㎡）</text>
-<text x="82.8" y="729.8" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">入口・既存位置</text>
-    <rect x="432.4" y="378.6" width="165.6" height="132.9" fill="#e4edf5" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="515.2" y="437.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="700" fill="#1a1a1a">シャンプー室</text>
-<text x="515.2" y="453.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">5.0帖（8.1㎡）</text>
-<text x="515.2" y="465.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">5帖（必須）</text>
-    <rect x="432.4" y="511.4" width="165.6" height="132.9" fill="#e4edf5" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="515.2" y="569.9" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="700" fill="#1a1a1a">トリミング室</text>
-<text x="515.2" y="585.9" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">5.0帖（8.1㎡）</text>
-<text x="515.2" y="597.9" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">5帖（必須）</text>
-    <rect x="432.4" y="644.3" width="165.6" height="112.8" fill="#e4edf5" stroke="#1a1a1a" stroke-width="1.7"/>
-<text x="515.2" y="692.7" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="10.5" font-weight="600" fill="#1a1a1a">待機・動線</text>
-<text x="515.2" y="708.7" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#555">4.3帖（6.9㎡）</text>
-<text x="515.2" y="720.7" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" fill="#666">サロン控え</text>
-    <g fill="#ddd4c6" stroke="#555" stroke-width="1">
-  <rect x="20.8" y="31.2" width="124.8" height="28.6"/>
-  <rect x="20.8" y="83.2" width="46.8" height="46.8"/>
-  <rect x="140.9" y="202.8" width="36.4" height="21.8"/>
+    <rect x="81.20" y="211.12" width="374.68" height="527.80" fill="#f7f1e3" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="351.48" y="211.12" width="104.40" height="52.78" fill="#f7f1e3" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="0.00" y="0.00" width="258.10" height="211.12" fill="#f3edd8" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="258.10" y="0.00" width="52.78" height="105.56" fill="#e9eef2" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="258.10" y="105.56" width="52.78" height="105.56" fill="#e9eef2" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="258.10" y="211.12" width="93.38" height="52.78" fill="#f7f1e3" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="310.88" y="0.00" width="105.56" height="211.12" fill="#e7f2e4" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="455.88" y="0.00" width="105.56" height="211.12" fill="#f0ebe3" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="561.44" y="0.00" width="105.56" height="211.12" fill="#e9eef2" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="0.00" y="211.12" width="81.20" height="52.78" fill="#ebe6de" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="0.00" y="527.80" width="81.20" height="69.60" fill="#ebe6de" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="455.88" y="211.12" width="211.12" height="52.78" fill="#e8eef6" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="455.88" y="263.90" width="211.12" height="131.95" fill="#e8eef6" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="455.88" y="395.85" width="211.12" height="131.95" fill="#e8eef6" stroke="#1a1a1a" stroke-width="1.8"/>
+    <rect x="455.88" y="527.80" width="211.12" height="211.12" fill="#e8eef6" stroke="#1a1a1a" stroke-width="1.8"/>
+    <g fill="#ddd4c4" stroke="#666" stroke-width="1">
+  <rect x="20.30" y="26.10" width="162.40" height="29.00"/>
+  <rect x="20.30" y="81.20" width="52.20" height="52.20"/>
+  <rect x="205.90" y="170.52" width="43.50" height="24.36"/>
 </g>
-<text x="83.2" y="49.4" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" font-weight="600" fill="#555">作業台</text>
-<text x="44.2" y="109.2" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" font-weight="600" fill="#555">シンク</text>
-<text x="159.1" y="215.8" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" font-weight="600" fill="#555">提供口</text>
+<text x="101.50" y="45.24" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#555">作業台</text>
+<text x="46.40" y="110.20" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#555">シンク</text>
+<text x="227.65" y="185.02" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#555">提供口</text>
+    <rect x="92.80" y="213.44" width="312.04" height="17.40" fill="#e4d8c6" stroke="#222" stroke-width="1.3"/><text x="248.82" y="224.46" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#555">サービスカウンター</text>
+    <rect x="479.08" y="69.60" width="58.00" height="40.60" fill="#c4a882" stroke="#333" stroke-width="1"/><circle cx="484.88" cy="63.80" r="7.54" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="531.28" cy="63.80" r="7.54" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="484.88" cy="121.80" r="7.54" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="531.28" cy="121.80" r="7.54" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+    <circle cx="596.24" cy="162.40" r="16.24" fill="#d9d3c8" stroke="#555"/><circle cx="636.84" cy="162.40" r="16.24" fill="#d9d3c8" stroke="#555"/>
+    <rect x="490.68" y="278.40" width="29.00" height="20.30" fill="#cfd8e0" stroke="#555"/><rect x="537.08" y="278.40" width="29.00" height="20.30" fill="#cfd8e0" stroke="#555"/>
+    <g id="seating">
+<rect x="116.00" y="222.72" width="139.20" height="22.04" fill="#e4d8c6" stroke="#222" stroke-width="1.3"/>
+<circle cx="133.40" cy="256.36" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<circle cx="165.30" cy="256.36" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<circle cx="197.20" cy="256.36" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<circle cx="229.10" cy="256.36" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<rect x="134.56" y="581.16" width="55.68" height="55.68" rx="2" fill="#faf6f0" stroke="#222" stroke-width="1.15"/><circle cx="162.40" cy="573.04" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="162.40" cy="644.96" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="126.44" cy="609.00" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="198.36" cy="609.00" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+<rect x="278.40" y="603.20" width="46.40" height="34.80" rx="2" fill="#faf6f0" stroke="#222" stroke-width="1.15"/><circle cx="272.60" cy="620.60" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/><circle cx="330.60" cy="620.60" r="8.70" fill="#faf6f0" stroke="#222" stroke-width="1.1"/>
+</g>
+    <path d="M 0.00 218.08 A 43.50 43.50 0 0 1 43.50 261.58" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="0.00" y1="218.08" x2="0.00" y2="261.58" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 81.20 218.08 A 40.60 40.60 0 0 0 40.60 258.68" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="81.20" y1="218.08" x2="81.20" y2="258.68" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 0.00 539.40 A 43.50 43.50 0 0 1 43.50 582.90" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="0.00" y1="539.40" x2="0.00" y2="582.90" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 81.20 539.40 A 40.60 40.60 0 0 0 40.60 580.00" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="81.20" y1="539.40" x2="81.20" y2="580.00" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 455.88 287.10 A 43.50 43.50 0 0 1 499.38 330.60" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="455.88" y1="287.10" x2="455.88" y2="330.60" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 455.88 419.05 A 43.50 43.50 0 0 1 499.38 462.55" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="455.88" y1="419.05" x2="455.88" y2="462.55" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 310.88 23.20 A 37.70 37.70 0 0 1 348.58 60.90" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="310.88" y1="23.20" x2="310.88" y2="60.90" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 455.88 23.20 A 37.70 37.70 0 0 1 493.58 60.90" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="455.88" y1="23.20" x2="455.88" y2="60.90" stroke="#1a1a1a" stroke-width="2.1"/>
+<path d="M 258.10 23.20 A 34.80 34.80 0 0 1 292.90 58.00" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="258.10" y1="23.20" x2="258.10" y2="58.00" stroke="#1a1a1a" stroke-width="2.1"/>
+    <line x1="46.40" y1="0.00" x2="116.00" y2="0.00" stroke="#fff" stroke-width="3.2"/><line x1="46.40" y1="0.00" x2="116.00" y2="0.00" stroke="#1a1a1a" stroke-width="1.0"/>
+<line x1="145.00" y1="0.00" x2="220.40" y2="0.00" stroke="#fff" stroke-width="3.2"/><line x1="145.00" y1="0.00" x2="220.40" y2="0.00" stroke="#1a1a1a" stroke-width="1.0"/>
+<line x1="667.00" y1="287.10" x2="667.00" y2="356.70" stroke="#fff" stroke-width="3.2"/><line x1="667.00" y1="287.10" x2="667.00" y2="356.70" stroke="#1a1a1a" stroke-width="1.0"/>
+<line x1="667.00" y1="419.05" x2="667.00" y2="488.65" stroke="#fff" stroke-width="3.2"/><line x1="667.00" y1="419.05" x2="667.00" y2="488.65" stroke="#1a1a1a" stroke-width="1.0"/>
+<line x1="116.00" y1="738.92" x2="290.00" y2="738.92" stroke="#fff" stroke-width="3.2"/><line x1="116.00" y1="738.92" x2="290.00" y2="738.92" stroke="#1a1a1a" stroke-width="1.0"/>
+    <text x="129.05" y="104.98" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">厨房</text>
+<text x="129.05" y="106.02" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">10.0帖</text>
+<text x="129.05" y="106.84" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">概ね既存規模</text>
+<text x="284.49" y="52.20" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">洗面所</text>
+<text x="284.49" y="53.24" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">1.0帖</text>
+<text x="284.49" y="157.76" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">トイレ</text>
+<text x="284.49" y="158.80" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">1.0帖</text>
+<text x="304.79" y="236.93" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">休憩</text>
+<text x="304.79" y="237.97" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">0.9帖</text>
+<text x="304.79" y="238.79" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">2.0帖相当</text>
+<text x="363.66" y="104.98" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">保護猫エリア</text>
+<text x="363.66" y="106.02" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">4.1帖</text>
+<text x="363.66" y="106.84" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">犬ゾーンと分離</text>
+<text x="508.66" y="104.98" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">スタッフルーム</text>
+<text x="508.66" y="106.02" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">4.1帖</text>
+<text x="614.22" y="104.98" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">洗濯室</text>
+<text x="614.22" y="106.02" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">4.1帖</text>
+<text x="561.44" y="237.51" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">廊下</text>
+<text x="561.44" y="329.30" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">シャンプー</text>
+<text x="561.44" y="330.34" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">5.1帖</text>
+<text x="561.44" y="331.15" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">5帖・必須</text>
+<text x="561.44" y="461.25" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">トリミング</text>
+<text x="561.44" y="462.29" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">5.1帖</text>
+<text x="561.44" y="463.10" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">5帖・必須</text>
+<text x="561.44" y="632.78" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="11" font-weight="700" fill="#1a1a1a">待機・動線</text>
+<text x="561.44" y="633.82" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">8.2帖</text>
+<text x="40.60" y="236.93" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">風除室①</text>
+<text x="40.60" y="237.97" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">0.8帖</text>
+<text x="40.60" y="238.79" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">既存位置</text>
+<text x="40.60" y="562.02" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">風除室②</text>
+<text x="40.60" y="563.06" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#444">1.0帖</text>
+<text x="40.60" y="563.88" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="7.5" font-weight="600" fill="#666">既存位置</text>
+<text x="268.54" y="316.10" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="13" font-weight="700" fill="#1a1a1a">カフェスペース</text>
+<text x="268.54" y="333.50" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="10" font-weight="600" fill="#444">客席 10席案</text>
+<text x="268.54" y="562.60" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#666">（中央ホール＋客席ゾーン）</text>
     <g>
-  <rect x="173.4" y="240.8" width="203.8"
-    height="16.6" fill="#e6dccf" stroke="#222" stroke-width="1.3"/>
-  <text x="275.3" y="251.7" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="7.5" font-weight="600" fill="#555">サービスカウンター</text>
+  <rect x="4.64" y="4.64" width="60.90" height="15.08"
+    fill="#e5d7bf" stroke="#1a1a1a" stroke-width="0.7"/>
+  <text x="35.09" y="14.50" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#1a1a1a">カフェ／厨房</text>
+  <rect x="314.36" y="4.64" width="60.90" height="15.08"
+    fill="#c8e0c2" stroke="#1a1a1a" stroke-width="0.7"/>
+  <text x="344.81" y="14.50" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#1a1a1a">猫ゾーン</text>
+  <rect x="460.52" y="268.54" width="60.90" height="15.08"
+    fill="#c5d6e8" stroke="#1a1a1a" stroke-width="0.7"/>
+  <text x="490.97" y="278.40" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" font-weight="600" fill="#1a1a1a">犬サロン</text>
 </g>
-    <text x="299.0" y="273.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="12" font-weight="700" fill="#1a1a1a">カフェスペース</text>
-<text x="299.0" y="287.6" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="9" font-weight="600" fill="#555">客席 10席プラン　46.0帖</text>
-    <g id="seating" fill="none" stroke="#222" stroke-width="1.15">
-<rect x="130.0" y="288.6" width="145.6" height="20.8" fill="#e6dccf" stroke-width="1.4"/>
-<circle cx="148.2" cy="325.0" r="8.1" fill="#faf6f0"/>
-<circle cx="176.8" cy="325.0" r="8.1" fill="#faf6f0"/>
-<circle cx="205.4" cy="325.0" r="8.1" fill="#faf6f0"/>
-<circle cx="234.0" cy="325.0" r="8.1" fill="#faf6f0"/>
-<rect x="140.4" y="590.2" width="52.0" height="52.0" rx="2" fill="#faf6f0"/>
-<circle cx="166.4" cy="582.9" r="7.5" fill="#faf6f0"/>
-<circle cx="166.4" cy="649.5" r="7.5" fill="#faf6f0"/>
-<circle cx="133.1" cy="616.2" r="7.5" fill="#faf6f0"/>
-<circle cx="199.7" cy="616.2" r="7.5" fill="#faf6f0"/>
-<rect x="269.4" y="607.4" width="43.7" height="33.3" rx="2" fill="#faf6f0"/>
-<circle cx="264.2" cy="624.0" r="7.5" fill="#faf6f0"/>
-<circle cx="318.2" cy="624.0" r="7.5" fill="#faf6f0"/>
+    <g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="0.00" y1="749.36" x2="0.00" y2="754.58"/>
+  <line x1="667.00" y1="749.36" x2="667.00" y2="754.58"/>
+  <line x1="0.00" y1="753.01" x2="667.00" y2="753.01"/>
+  <text x="333.50" y="750.01" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none">11500 mm ＝ 11.5 m</text>
 </g>
-    <path d="M 0.0 246.0 A 44.2 44.2 0 0 1 44.2 290.2" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="0.0" y1="246.0" x2="0.0" y2="290.2" stroke="#1a1a1a" stroke-width="2.2"/>
-<path d="M 0.0 680.7 A 44.2 44.2 0 0 1 44.2 724.9" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="0.0" y1="680.7" x2="0.0" y2="724.9" stroke="#1a1a1a" stroke-width="2.2"/>
-<path d="M 432.4 396.8 A 44.2 44.2 0 0 1 476.6 441.0" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="432.4" y1="396.8" x2="432.4" y2="441.0" stroke="#1a1a1a" stroke-width="2.2"/>
-<path d="M 432.4 529.6 A 44.2 44.2 0 0 1 476.6 573.8" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="432.4" y1="529.6" x2="432.4" y2="573.8" stroke="#1a1a1a" stroke-width="2.2"/>
-<path d="M 385.1 18.2 A 44.2 44.2 0 0 1 429.3 62.4" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="385.1" y1="18.2" x2="385.1" y2="62.4" stroke="#1a1a1a" stroke-width="2.2"/>
-<path d="M 185.1 20.8 A 36.4 36.4 0 0 1 221.5 57.2" fill="none" stroke="#1a1a1a" stroke-width="1.1"/><line x1="185.1" y1="20.8" x2="185.1" y2="57.2" stroke="#1a1a1a" stroke-width="2.2"/>
-    <g opacity="0.9">
-  <rect x="4.2" y="4.2" width="57.2" height="14.6"
-    fill="#e3d5bf" stroke="#1a1a1a" stroke-width="0.7"/>
-  <text x="32.8" y="14.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" font-weight="600" fill="#1a1a1a">カフェ／厨房</text>
-  <rect x="436.5" y="382.7" width="57.2" height="14.6"
-    fill="#c9d8e8" stroke="#1a1a1a" stroke-width="0.7"/>
-  <text x="465.1" y="392.6" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" font-weight="600" fill="#1a1a1a">犬サロン</text>
-  <rect x="389.2" y="4.2" width="57.2" height="14.6"
-    fill="#cce3c6" stroke="#1a1a1a" stroke-width="0.7"/>
-  <text x="417.8" y="14.0" text-anchor="middle" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" font-weight="600" fill="#1a1a1a">猫ゾーン</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="0.00" y1="769.08" x2="0.00" y2="774.30"/>
+  <line x1="258.10" y1="769.08" x2="258.10" y2="774.30"/>
+  <line x1="0.00" y1="772.73" x2="258.10" y2="772.73"/>
+  <text x="129.05" y="769.73" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none">4450</text>
 </g>
-    <g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="0.0" y1="765.4" x2="0.0" y2="769.1"/>
-  <line x1="598.0" y1="765.4" x2="598.0" y2="769.1"/>
-  <line x1="0.0" y1="768.0" x2="598.0" y2="768.0"/>
-  <text x="299.0" y="767.6" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">11500 mm = 11.5 m</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="258.10" y1="769.08" x2="258.10" y2="774.30"/>
+  <line x1="310.88" y1="769.08" x2="310.88" y2="774.30"/>
+  <line x1="258.10" y1="772.73" x2="310.88" y2="772.73"/>
+  <text x="284.49" y="769.73" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none">910</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="0.0" y1="782.1" x2="0.0" y2="785.7"/>
-  <line x1="165.6" y1="782.1" x2="165.6" y2="785.7"/>
-  <line x1="0.0" y1="784.7" x2="165.6" y2="784.7"/>
-  <text x="82.8" y="784.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">3185</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="310.88" y1="769.08" x2="310.88" y2="774.30"/>
+  <line x1="416.44" y1="769.08" x2="416.44" y2="774.30"/>
+  <line x1="310.88" y1="772.73" x2="416.44" y2="772.73"/>
+  <text x="363.66" y="769.73" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none">1820</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="165.6" y1="782.1" x2="165.6" y2="785.7"/>
-  <line x1="212.9" y1="782.1" x2="212.9" y2="785.7"/>
-  <line x1="165.6" y1="784.7" x2="212.9" y2="784.7"/>
-  <text x="189.3" y="784.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">910</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="416.44" y1="769.08" x2="416.44" y2="774.30"/>
+  <line x1="455.88" y1="769.08" x2="455.88" y2="774.30"/>
+  <line x1="416.44" y1="772.73" x2="455.88" y2="772.73"/>
+  <text x="436.16" y="769.73" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none">680</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="212.9" y1="782.1" x2="212.9" y2="785.7"/>
-  <line x1="283.9" y1="782.1" x2="283.9" y2="785.7"/>
-  <line x1="212.9" y1="784.7" x2="283.9" y2="784.7"/>
-  <text x="248.4" y="784.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">1365</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="455.88" y1="769.08" x2="455.88" y2="774.30"/>
+  <line x1="667.00" y1="769.08" x2="667.00" y2="774.30"/>
+  <line x1="455.88" y1="772.73" x2="667.00" y2="772.73"/>
+  <text x="561.44" y="769.73" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none">3640</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="283.9" y1="782.1" x2="283.9" y2="785.7"/>
-  <line x1="385.1" y1="782.1" x2="385.1" y2="785.7"/>
-  <line x1="283.9" y1="784.7" x2="385.1" y2="784.7"/>
-  <text x="334.5" y="784.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">1945</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="677.44" y1="0.00" x2="682.66" y2="0.00"/>
+  <line x1="677.44" y1="738.92" x2="682.66" y2="738.92"/>
+  <line x1="681.09" y1="0.00" x2="681.09" y2="738.92"/>
+  <text x="690.09" y="369.46" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none"
+    transform="rotate(-90 690.09 369.46)">12740 mm</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="385.1" y1="782.1" x2="385.1" y2="785.7"/>
-  <line x1="432.4" y1="782.1" x2="432.4" y2="785.7"/>
-  <line x1="385.1" y1="784.7" x2="432.4" y2="784.7"/>
-  <text x="408.7" y="784.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">910</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="697.16" y1="0.00" x2="702.38" y2="0.00"/>
+  <line x1="697.16" y1="211.12" x2="702.38" y2="211.12"/>
+  <line x1="700.81" y1="0.00" x2="700.81" y2="211.12"/>
+  <text x="709.81" y="105.56" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none"
+    transform="rotate(-90 709.81 105.56)">3640</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="432.4" y1="782.1" x2="432.4" y2="785.7"/>
-  <line x1="598.0" y1="782.1" x2="598.0" y2="785.7"/>
-  <line x1="432.4" y1="784.7" x2="598.0" y2="784.7"/>
-  <text x="515.2" y="784.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none">3185</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="697.16" y1="211.12" x2="702.38" y2="211.12"/>
+  <line x1="697.16" y1="263.90" x2="702.38" y2="263.90"/>
+  <line x1="700.81" y1="211.12" x2="700.81" y2="263.90"/>
+  <text x="709.81" y="237.51" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none"
+    transform="rotate(-90 709.81 237.51)">910</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="606.3" y1="0.0" x2="610.0" y2="0.0"/>
-  <line x1="606.3" y1="757.1" x2="610.0" y2="757.1"/>
-  <line x1="608.9" y1="0.0" x2="608.9" y2="757.1"/>
-  <text x="609.5" y="378.6" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 609.5 378.6)">14560 mm</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="697.16" y1="263.90" x2="702.38" y2="263.90"/>
+  <line x1="697.16" y1="395.85" x2="702.38" y2="395.85"/>
+  <line x1="700.81" y1="263.90" x2="700.81" y2="395.85"/>
+  <text x="709.81" y="329.88" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none"
+    transform="rotate(-90 709.81 329.88)">2275</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="623.0" y1="0.0" x2="626.6" y2="0.0"/>
-  <line x1="623.0" y1="236.6" x2="626.6" y2="236.6"/>
-  <line x1="625.6" y1="0.0" x2="625.6" y2="236.6"/>
-  <text x="626.2" y="118.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 626.2 118.3)">4550</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="697.16" y1="395.85" x2="702.38" y2="395.85"/>
+  <line x1="697.16" y1="527.80" x2="702.38" y2="527.80"/>
+  <line x1="700.81" y1="395.85" x2="700.81" y2="527.80"/>
+  <text x="709.81" y="461.83" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none"
+    transform="rotate(-90 709.81 461.83)">2275</text>
 </g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="623.0" y1="236.6" x2="626.6" y2="236.6"/>
-  <line x1="623.0" y1="283.9" x2="626.6" y2="283.9"/>
-  <line x1="625.6" y1="236.6" x2="625.6" y2="283.9"/>
-  <text x="626.2" y="260.3" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 626.2 260.3)">910</text>
-</g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="623.0" y1="283.9" x2="626.6" y2="283.9"/>
-  <line x1="623.0" y1="378.6" x2="626.6" y2="378.6"/>
-  <line x1="625.6" y1="283.9" x2="625.6" y2="378.6"/>
-  <text x="626.2" y="331.2" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 626.2 331.2)">1820</text>
-</g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="623.0" y1="378.6" x2="626.6" y2="378.6"/>
-  <line x1="623.0" y1="567.8" x2="626.6" y2="567.8"/>
-  <line x1="625.6" y1="378.6" x2="625.6" y2="567.8"/>
-  <text x="626.2" y="473.2" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 626.2 473.2)">3640</text>
-</g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="623.0" y1="567.8" x2="626.6" y2="567.8"/>
-  <line x1="623.0" y1="662.5" x2="626.6" y2="662.5"/>
-  <line x1="625.6" y1="567.8" x2="625.6" y2="662.5"/>
-  <text x="626.2" y="615.2" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 626.2 615.2)">1820</text>
-</g>
-<g stroke="#333" fill="#222" stroke-width="0.85">
-  <line x1="623.0" y1="662.5" x2="626.6" y2="662.5"/>
-  <line x1="623.0" y1="757.1" x2="626.6" y2="757.1"/>
-  <line x1="625.6" y1="662.5" x2="625.6" y2="757.1"/>
-  <text x="626.2" y="709.8" text-anchor="middle"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" stroke="none"
-    transform="rotate(-90 626.2 709.8)">1820</text>
+<g stroke="#333" fill="#222" stroke-width="0.9">
+  <line x1="697.16" y1="527.80" x2="702.38" y2="527.80"/>
+  <line x1="697.16" y1="738.92" x2="702.38" y2="738.92"/>
+  <line x1="700.81" y1="527.80" x2="700.81" y2="738.92"/>
+  <text x="709.81" y="633.36" text-anchor="middle"
+    font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" stroke="none"
+    transform="rotate(-90 709.81 633.36)">3640</text>
 </g>
 
-    <rect x="0" y="0" width="598.0" height="757.1"
-      fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <rect x="0.00" y="0.00" width="667.00" height="738.92" fill="none" stroke="#1a1a1a" stroke-width="2.6"/>
 
-    <g transform="translate(562.0,28)">
-      <circle r="15" fill="#fff" stroke="#1a1a1a"/>
-      <polygon points="0,-11 3.5,4 0,1.5 -3.5,4" fill="#1a1a1a"/>
-      <text y="26" text-anchor="middle" font-size="8"
-        font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif">北</text>
+    <g transform="translate(627.00, 30)">
+      <circle r="14" fill="#fff" stroke="#1a1a1a"/>
+      <polygon points="0,-10 3,4 0,1.5 -3,4" fill="#1a1a1a"/>
+      <text y="24" text-anchor="middle" font-size="8" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif">北</text>
     </g>
   </g>
 
-  <text x="20.0" y="883.1"
-    font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, Hiragino Sans, sans-serif" font-size="8" fill="#666">
-    固定条件: 入口位置維持 ／ トリミング室 5帖×2（シャンプー＋トリミング） ／ 犬と猫のゾーニング分離 ／ 保護猫エリア ／ 厨房は概ね既存規模
+  <text x="24.0" y="871.9" font-family="Droid Sans Fallback, WenQuanYi Micro Hei, Noto Sans CJK JP, sans-serif" font-size="8" fill="#555">
+    固定条件: 入口位置維持 ／ トリミング系5帖×2（シャンプー＋トリミング） ／ 犬猫ゾーニング分離 ／ 保護猫エリア ／ 厨房概ね既存規模
   </text>
-  <text x="20.0" y="901.1"
-    font-family="IBM Plex Mono, DejaVu Sans Mono, Menlo, monospace" font-size="7.5" fill="#888">
-    PAWS / Saijo Ehime / 10-seat pattern / design-development drawing
+  <text x="24.0" y="889.9" font-family="DejaVu Sans Mono, IBM Plex Mono, monospace" font-size="7.5" fill="#888">
+    PAWS / Saijo Ehime / 10-seat / base=reference topology / width 11.5m
   </text>
 </svg>
