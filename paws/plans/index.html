@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>PAWS 平面図 — 5 / 10 / 15席</title>
+<style>
+  :root {
+    --bg:#f2eee6; --ink:#1b1915; --muted:#5a544a; --line:#d2caba; --accent:#2c5c4e;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;
+    background:var(--bg); color:var(--ink); }
+  .hero {
+    padding:44px 28px 22px; border-bottom:1px solid var(--line);
+    background:
+      radial-gradient(ellipse at 0% 0%, #e5dccb 0%, transparent 42%),
+      radial-gradient(ellipse at 100% 0%, #d9e3db 0%, transparent 40%),
+      var(--bg);
+  }
+  .brand { color:var(--accent); font-weight:700; font-size:22px; letter-spacing:.08em; }
+  h1 { margin:8px 0; font-size:clamp(26px,4vw,40px); }
+  .hero p { margin:0; max-width:40rem; color:var(--muted); line-height:1.7; }
+  .tags { display:flex; flex-wrap:wrap; gap:8px; margin-top:18px; }
+  .tags span { border:1px solid var(--line); background:#faf7f0; padding:5px 10px; font-size:12px; }
+  main { padding:24px; display:grid; gap:22px; }
+  @media(min-width:1100px){ main { grid-template-columns:repeat(3,1fr); } }
+  .card { background:#faf7f0; border:1px solid var(--line); display:flex; flex-direction:column; }
+  .card header { padding:14px 14px 10px; border-bottom:1px solid var(--line); }
+  .card h2 { margin:0 0 4px; font-size:18px; }
+  .card header p { margin:0; color:var(--muted); font-size:13px; line-height:1.5; }
+  .frame { display:block; padding:10px; background:#ebe5da; }
+  .frame.alt { border-top:1px solid var(--line); background:#e4ddd0; }
+  .frame img { width:100%; height:auto; display:block; background:#f4f0e8; }
+  .links { display:flex; border-top:1px solid var(--line); }
+  .links a { flex:1; text-align:center; padding:11px; text-decoration:none; color:var(--accent); font-weight:600; font-size:13px; }
+  .links a + a { border-left:1px solid var(--line); }
+  footer { padding:0 28px 36px; color:var(--muted); font-size:12px; }
+</style>
+</head>
+<body>
+  <header class="hero">
+    <div class="brand">PAWS</div>
+    <h1>ドッグサロン兼カフェ 平面図</h1>
+    <p>愛媛県西条市の計画建物のうち、サロン兼カフェ棟の客席バリエーション（5／10／15席）。
+    建築幅を11.5mに抑え、入口・トリミング5帖×2・犬猫分離・保護猫エリア・厨房規模は維持しています。</p>
+    <div class="tags">
+      <span>横 11,500 mm</span><span>縦 14,560 mm</span><span>入口位置 維持</span>
+      <span>トリミング 5帖×2</span><span>犬／猫 分離</span><span>保護猫エリア</span>
+      <span>厨房 概ね既存</span>
+    </div>
+  </header>
+  <main>
+    <article class="card">
+      <header>
+        <h2>5席プラン</h2>
+        <p>カウンター3＋テーブル2。ゆとりのあるラウンジ配置。</p>
+      </header>
+      <a class="frame" href="paws-cafe-5seats.svg" target="_blank" rel="noopener">
+        <img src="paws-cafe-5seats.png" alt="PAWS 5席平面図（寸法図）"/>
+      </a>
+      <a class="frame alt" href="paws-cafe-5seats-presentation.jpg" target="_blank" rel="noopener">
+        <img src="paws-cafe-5seats-presentation.jpg" alt="PAWS 5席平面図（プレゼン）"/>
+      </a>
+      <div class="links">
+        <a href="paws-cafe-5seats.svg" download>SVG</a>
+        <a href="paws-cafe-5seats.png" download>PNG</a>
+        <a href="paws-cafe-5seats-presentation.jpg" download>JPG</a>
+      </div>
+    </article>
+    <article class="card">
+      <header>
+        <h2>10席プラン</h2>
+        <p>カウンター4＋4人卓＋2人卓。標準稼働のバランス型。</p>
+      </header>
+      <a class="frame" href="paws-cafe-10seats.svg" target="_blank" rel="noopener">
+        <img src="paws-cafe-10seats.png" alt="PAWS 10席平面図（寸法図）"/>
+      </a>
+      <a class="frame alt" href="paws-cafe-10seats-presentation.jpg" target="_blank" rel="noopener">
+        <img src="paws-cafe-10seats-presentation.jpg" alt="PAWS 10席平面図（プレゼン）"/>
+      </a>
+      <div class="links">
+        <a href="paws-cafe-10seats.svg" download>SVG</a>
+        <a href="paws-cafe-10seats.png" download>PNG</a>
+        <a href="paws-cafe-10seats-presentation.jpg" download>JPG</a>
+      </div>
+    </article>
+    <article class="card">
+      <header>
+        <h2>15席プラン</h2>
+        <p>カウンター5＋4人卓×2＋2人卓。ピーク時の最大客席。</p>
+      </header>
+      <a class="frame" href="paws-cafe-15seats.svg" target="_blank" rel="noopener">
+        <img src="paws-cafe-15seats.png" alt="PAWS 15席平面図（寸法図）"/>
+      </a>
+      <a class="frame alt" href="paws-cafe-15seats-presentation.jpg" target="_blank" rel="noopener">
+        <img src="paws-cafe-15seats-presentation.jpg" alt="PAWS 15席平面図（プレゼン）"/>
+      </a>
+      <div class="links">
+        <a href="paws-cafe-15seats.svg" download>SVG</a>
+        <a href="paws-cafe-15seats.png" download>PNG</a>
+        <a href="paws-cafe-15seats-presentation.jpg" download>JPG</a>
+      </div>
+    </article></main>
+  <footer>参考添付図を基にした基本設計段階の図面です。実施設計では構造・設備・法規の確認が必要です。</footer>
+</body>
+</html>
