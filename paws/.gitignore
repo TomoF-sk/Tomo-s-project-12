@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+assets/crops/
+assets/ref_enhanced.png
